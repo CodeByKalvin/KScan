@@ -161,5 +161,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### Authors
 
 -   **CodeByKalvin** - *Initial work* - [GitHub Profile](https://github.com/codebykalvin)
-
-This `readme.md` file should be ready to be used in your KScan project. It contains the information about the project, how to use it, and how other users can contribute. Let me know if you want any other changes.
