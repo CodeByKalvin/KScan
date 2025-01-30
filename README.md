@@ -43,8 +43,8 @@ To use KScan locally, follow these steps:
 #### 1. Clone the Repository
 
 ```bash
-git clone [repository_url]
-cd [repository_directory]
+git clone https://github.com/CodeByKalvin/KScan.git
+cd KScan
 ```
 
 #### 2. Install Dependencies
