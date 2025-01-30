@@ -1,0 +1,24 @@
+{
+    "suspicious_process_names": [
+        "keylogger.exe",
+        "logger.exe"
+    ],
+    "suspicious_process_paths": [
+        "C:\\Windows\\Temp",
+        "C:\\ProgramData"
+    ],
+    "suspicious_file_names": [
+        "keylog.dll",
+        "hook.dll"
+    ],
+    "suspicious_file_locations": [
+        "C:\\Users\\Success\\AppData\\Roaming",
+        "C:\\Users\\Success\\AppData\\Local",
+        "C:\\Windows\\System32",
+        "C:\\Windows"
+    ],
+    "suspicious_registry_keys": [
+        "SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run",
+        "SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\RunOnce"
+    ]
+}
